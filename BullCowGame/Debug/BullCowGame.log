@@ -1,2 +1,6 @@
-﻿  main.cpp
+﻿  FBullCowGame.cpp
+  main.cpp
+C:\Users\roei6\source\repos\Sulotion_1\BullCowGame\main.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+C:\Users\roei6\source\repos\Sulotion_1\BullCowGame\main.cpp(23,15): warning C4101:  'BCGame': unreferenced local variable
   BullCowGame.vcxproj -> C:\Users\roei6\source\repos\Sulotion_1\Debug\BullCowGame.exe
